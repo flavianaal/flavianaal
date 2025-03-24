@@ -1,4 +1,4 @@
-## Olá, sou Flaviana, Cearense, gosto de tecnologia, chocolate, da natureza e os animais. 
+## Olá, sou Flaviana, Cearense, gosto de tecnologia, chocolate, da natureza e dos animais. 
 
 Meu primeiro contato com a tecnologia foi em 2015, quando ingressei no curso de Tecnologia em Telemática pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará - campus Tauá. Além disso, conclui a Pós-graduação em Novas Tecnologias Educacionais pelo grupo Faveni, fortalecendo minha base acadêmica e profissional.
 Tenho experiência em linguagens e tecnologias como Java, SQL, Git, GitHub, HTML, CSS e JavaScript. Durante minha atuação como Analista de Sistema, adquiri conhecimento em gerenciamento de processos (SGP), gestão de pessoas, suporte técnico ao usuário e segurança da informação. Além das competências técnicas, desenvolvi habilidades interpessoais essenciais, como comunicação eficaz, paciência, resolução de problemas, colaboração e trabalho em equipe, que contribuíram significativamente para o meu desenvolvimento profissional.
